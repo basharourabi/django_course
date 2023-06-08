@@ -33,7 +33,8 @@ You should now have a directory called 'drf_course' in your development director
 In this module, we will be start our project. To do this we will need to create a virtual environment.
 >Note: Python virtual env docs can be found [here](https://docs.python.org/3/tutorial/venv.html).
 
-1) Virtual Environment - Open a terminal and use the following command to create a virtual environment. 
+1) Virtual Environment      ألبيئة الإفتراضية
+- Open a terminal and use the following command to create a virtual environment. 
 ```
 python -m venv venv
 ```
