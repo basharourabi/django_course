@@ -72,12 +72,15 @@ sqlparse==0.4.3
 tzdata==2022.6
 ```
 Let's go ahead and install our project requirements. Add the following code to you terminal.
+لتفعيل البيئة الإفتراضية عليك  تثبيت ملف يإسم (requirements.txt) وتحديد موقعه من خلال تحديد اسم المجلد اللذي يحتويه
+
 
 ```
 pip install -r backend/requirements.txt
 ```
 
 3) Django - You can now go ahead and start a new Django project. Installing Django has given you access to a handy 'startproject' command. Use the following command to start our new project.
+لتفعيل وتثلبيت مشروع منصة django عليك  تثبيت ملف
 ```
 django-admin startproject drf_course backend
 ```
