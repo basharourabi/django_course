@@ -38,7 +38,7 @@ In this module, we will be start our project. To do this we will need to create 
 ```
 python -m venv venv
 ```
-Now activate the virtual environment with the following command.
+Now activate the virtual environment with the following command. تفعيل البيئة الإفتراضية
 ```
 # windows machine
 venv\Scripts\activate.bat
