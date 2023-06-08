@@ -80,7 +80,7 @@ pip install -r backend/requirements.txt
 ```
 
 3) Django - You can now go ahead and start a new Django project. Installing Django has given you access to a handy 'startproject' command. Use the following command to start our new project.
-لتفعيل وتثلبيت مشروع منصة django عليك  تثبيت ملف
+لتفعيل وتثلبيت مشروع منصة django عليك التثبيت من خلال الأوامر التالية 
 ```
 django-admin startproject drf_course backend
 ```
