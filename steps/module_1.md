@@ -55,7 +55,7 @@ You will know your virtual environment is active when your terminal displays the
 2) Packages and requirements - Our project will rely on a whole bunch of 3rd party packages (requirements) to function. We will be using a Python package manager to install packages throughout this course. 
 I have already created a requirements.txt file. Check out /backend/requirements.txt
 
-لبرمجة البيئة الإفتراضية عليك إنشاء ملف يإسم (requirements.txt)   (requirements.txt
+ (requirements.txt) لبرمجة البيئة الإفتراضية عليك إنشاء ملف يإسم
 ```
 asgiref==3.5.2
 Django==4.1.3
