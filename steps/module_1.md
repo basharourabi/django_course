@@ -5,10 +5,10 @@ This is my DRF course. I hope you like it.
 ***
 ***
 
-## Current root directory
+## Current root directory                                                    المجلد الجذري ##
 Your root directory should look like the following.
 ```
-drf_course\  <--This is the root directory
+drf_course\  <--This is the root directory <--المجلد الجذري
     backend\
         docker\
             ...
