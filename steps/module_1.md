@@ -47,6 +47,7 @@ venv\Scripts\activate.bat
 source venv/bin/activate
 ```
 You will know your virtual environment is active when your terminal displays the following:
+سوف تعلم أن تفعيل البيئة الإفتراضية مفعلة لأن إسم البيئة بين قوسين على بداية سطر الأمر
 ```
 (venv) path\to\project\drf_course>
 ```
