@@ -1,3 +1,14 @@
+/* Keyword values */
+direction: ltr;
+direction: rtl;
+
+/* Global values */
+direction: inherit;
+direction: initial;
+direction: revert;
+direction: revert-layer;
+direction: unset;
+
 # Django Rest Framework (DRF) Course - Module 1
 This is my DRF course. I hope you like it.
 
