@@ -6,6 +6,7 @@ These notes follow on from the README.md getting started instructions.
 Current root directory المجلد الجذري
 Your root directory should look like the following.
 
+```
 drf_course\  <--This is the root directory <--المجلد الجذري
     backend\
         docker\
@@ -18,7 +19,7 @@ drf_course\  <--This is the root directory <--المجلد الجذري
     >env.template
     >README.md
     >server.py
-If in doubt, run the following git commands:
+```
 
 git checkout module_1
 git pull origin module_1
