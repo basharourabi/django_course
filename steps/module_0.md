@@ -1,9 +1,15 @@
 Django Rest Framework (DRF) Course - Module 1
 This is my DRF course. I hope you like it.
 
-These notes follow on from the README.md getting started instructions.
-
+> These notes follow on from the README.md getting started instructions.
+***
 Current root directory المجلد الجذري
+Your root directory should look like the following.
+# Django Rest Framework (DRF) Course - Module 1
+This is my DRF course. I hope you like it.
+***
+
+## Current root directory                                                    المجلد الجذري ##
 Your root directory should look like the following.
 
 ```
