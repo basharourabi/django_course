@@ -9,15 +9,20 @@ Environments                                                                    
 
 ***
 
-## Current root directory                                                    المجلد الجذري ##
-Your root directory should look like the following.
+## Environments                                                  البيئة الإفتراضية ##
+You may have tons of questiions on this subject matter, but essentialy the process of setting the environment is construed of three steps.
+1-Include a requirements.txt file in the filing structure
+1-ارفاق ملف تكست ينص أسماء التطبيقات و 
+2-Inducing (adding) an environment file (setting up an env file)
+
+3-Activating the environment file
 
 ```
 drf_course\  <--This is the root directory <--المجلد الجذري
     backend\
         docker\
             ...
-        >requirements.txt   <--This is the root directory <--الملف متطلبات الثطبيتات و البرامج التي تخضع لها البيئة 
+        >requirements.txt   <--This is the requirements file that is activated in the new virtual environment  <--الملف متطلبات الثطبيتات و البرامج التي تخضع لها البيئة 
     steps\
         ...
     >.gitignore
