@@ -3,7 +3,7 @@ This is my DRF course. I hope you like it.
 
 > These notes follow on from the README.md getting started instructions.
 ***
-Challenges for new Coders                                  المضلات و التحديات للمبرمجين الحديثين والجدد
+Challenges for new Coders                                  المعضلات و التحديات للمبرمجين الحديثين والجدد
 Environments                                                                    البيئة الإفتراضية
 # Environments                                        البيئة الإفتراضية - Module 0
 
