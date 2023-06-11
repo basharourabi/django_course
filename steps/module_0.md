@@ -17,7 +17,7 @@ drf_course\  <--This is the root directory <--المجلد الجذري
     backend\
         docker\
             ...
-        >requirements.txt
+        >requirements.txt   <--This is the root directory <--الملف متطلبات الثطبيتات و البرامج التي تخضع لها البيئة 
     steps\
         ...
     >.gitignore
