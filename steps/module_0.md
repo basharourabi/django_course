@@ -12,7 +12,7 @@ Environments                                                                    
 ## Environments                                                  البيئة الإفتراضية ##
 You may have tons of questiions on this subject matter, but essentialy the process of setting the environment is construed of three steps.
 1-Include a requirements.txt file in the filing structure
-1-ارفاق ملف تكست ينص أسماء التطبيقات و 
+1-ارفاق ملف تكست ينص أسماء التطبيقات وتحديد إصدارها ( تحديد الإصدارات مصدر معظم المشكلات - قد لا تتماشا بعض الإصدارات مع أخرى أو قد تتطلب طريقة اخرى في البرمجة)  
 2-Inducing (adding) an environment file (setting up an env file)
 
 3-Activating the environment file
