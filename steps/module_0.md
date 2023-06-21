@@ -19,7 +19,8 @@ Unlike One Big Program (Monolithic) Microservice or the service is a related ent
 Environments                                                                البيئة الإفتراضية 
 
 
-## Components                                    الاجزاء - Module 0
+## Application Framework | Components        Module 0         الاجزاء | هيكلية التطبيق
+
 ---
 1-1 Computing Logic / Process     Python                 منطق المعالجة | العملية 
 ---
