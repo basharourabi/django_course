@@ -18,7 +18,10 @@ Environments                                                                ال
 
 ## Components                                    الاجزاء - Module 0
 
-1- Computing Logic / Process                   منطق المعالجة | العملية 
+1- Computing Logic / Process     Python          منطق المعالجة | العملية 
+2- Python Framework              Django           الية تشغيل بايثون للموق
+3- Web Server                    NGINX                    خادم مواقع 
+
 
 ***
 
