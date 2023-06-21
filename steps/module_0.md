@@ -1,10 +1,21 @@
-Django Rest Framework (DRF) Course - Module 0
-This is my DRF course. I hope you like it.
+Microservices Course - Module 0
+I hope you like it.
 
 > These notes follow on from the README.md getting started instructions.
 ***
-Challenges for new Coders                                  المعضلات و التحديات للمبرمجين الحديثين والجدد
-Environments                                                                    البيئة الإفتراضية
+Microservices Architecture                                  الهيكل البنيوي للخدمات السحابية المصغرة 
+
+#-Definition                          Module 0                                   التعريف-
+
+Unlike One Big Program (Monolithic) Microservice or the service is a related entity interms of functionality Such as order management, customer management; each microservice is a complete program (process) enclosed that requires an input or set of inputs and can deliver an output. A microservice is a complete program that is exposed or communicates to other microservices or external entities through an api request. 
+
+الخدمة Service هي مجموعة من الخصائص المهام المتعلقة ببعضها في البرامج، مثلاً إدارة الطلبات Order Management، إدارة العملاء Customer Management، وهكذا. وكل خدمة مصغرة Microservices هي تعتبر مشروع كامل صغير ولديها داخلياً معمارية لها. بعض من هذه الخدمات المصغرة Microservices يمكن أن تقدم Expose API سوءاً للتطبيقات أو لخدمات مصغرة أخرى. وبعض هذه ال Microservices قد تكون هي Web UI. وفي وقت التشغيل كل من هذه الخدمات سوف تكون على VM لوحدها او Docker Container. الصورة التالية تبين شكل المشروع بعد تبني هذه الطريقة في العمل:
+
+
+
+Environments                                                                البيئة الإفتراضية 
+
+
 # Environments                                        البيئة الإفتراضية - Module 0
 
 ***
@@ -13,6 +24,13 @@ Environments                                                                    
 ---
 ![Architecture Block](https://github.com/basharourabi/django_course/blob/main/static_files/AppParadigm.jpg)
 ---
+
+***
+Challenges for new Coders                                  المعضلات و التحديات للمبرمجين الحديثين والجدد
+Environments                                                                    البيئة الإفتراضية
+# Environments                                        البيئة الإفتراضية - Module 0
+
+***
 ## You may have tons of questions on this subject matter, but essentialy the process of setting the environment is construed of three steps.
 ### 1-Include a requirements.txt file in the filing structure
 
