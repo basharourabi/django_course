@@ -23,9 +23,14 @@ Environments                                                                ال
     1.1 Python Interpretor                               بايثون معالج 
     1.2 Python Libraries                                مكتبات بايثون
     1.3 Version Settings                                تحديد الإصدار 
-    
 ---
 2- Python Framework              Django           الية تشغيل بايثون للموق
+---
+    2.1 Page Templates                                  قوالب للصفحات 
+    2.2 URL Routings                               توجيه عناوين الصفحات 
+    2.3 APP Logic                                        منطق التطبيق
+    2.4 Models                                           تحديد النماذج  
+    2.5 Views                                            تحديد المشاهد  
 ---
 3- Web Server                    NGINX                    خادم مواقع 
 ---
