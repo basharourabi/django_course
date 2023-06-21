@@ -12,12 +12,9 @@ Unlike One Big Program (Monolithic) Microservice or the service is a related ent
 الخدمة Service هي مجموعة من الخصائص المهام المتعلقة ببعضها في البرامج، مثلاً إدارة الطلبات Order Management، إدارة العملاء Customer Management، وهكذا. وكل خدمة مصغرة Microservices هي تعتبر مشروع كامل صغير ولديها داخلياً معمارية لها. بعض من هذه الخدمات المصغرة Microservices يمكن أن تقدم Expose API سوءاً للتطبيقات أو لخدمات مصغرة أخرى. وبعض هذه ال Microservices قد تكون هي Web UI. وفي وقت التشغيل كل من هذه الخدمات سوف تكون على VM لوحدها او Docker Container. الصورة التالية تبين شكل المشروع بعد تبني هذه الطريقة في العمل:
 ## Subparts        - Module 0 -                         الاجزاء لثانوية  
 ---
-       1 Application Framework    Python & WebService |  هيكلية التطبيق -  برامج بايثون مع خادم المواقع 
-       2 Server Framework         Docker & Kubernetes |    هيكلية الخادم السحابي  -    برامج دوكر مع كوبرناتس
+       1 Application Framework    Python & WebService |    هيكلية التطبيق      -   برامج بايثون مع خادم المواقع 
+       2 Server Framework         Docker & Kubernetes |    هيكلية الخادم السحابي  -     برامج دوكر مع كوبرناتس
 ---
-
-Environments                                                                البيئة الإفتراضية 
-
 
 ## Application Framework | Components        Module 0         الاجزاء | هيكلية التطبيق
 
@@ -48,7 +45,7 @@ Environments                                                                ال
 ---
 ***
 
-## Environments                                                  البيئة الإفتراضية ##
+## ٌRelations Figure 1                                                عرض توضيحي 1 إرتباطات ##
 ---
 ![Architecture Block](https://github.com/basharourabi/django_course/blob/main/static_files/AppParadigm.jpg)
 ---
