@@ -11,7 +11,7 @@ Environments                                                                    
 
 ## Environments                                                  البيئة الإفتراضية ##
 ---
-![Architecture Block](https://github.com/basharourabi/django_course/static_files/AppParadigm.jpg)
+![Architecture Block](https://github.com/basharourabi/django_course/blob/main/static_files/AppParadigm.jpg)
 ---
 ## You may have tons of questions on this subject matter, but essentialy the process of setting the environment is construed of three steps.
 ### 1-Include a requirements.txt file in the filing structure
