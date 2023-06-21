@@ -18,7 +18,7 @@ Environments                                                                ال
 
 ## Components                                    الاجزاء - Module 0
 ---
-1- Computing Logic / Process     Python          منطق المعالجة | العملية 
+1- Computing Logic / Process     Python                 منطق المعالجة | العملية 
 ---
     1.1 Python Interpretor                               بايثون معالج 
     1.2 Python Libraries                                مكتبات بايثون
