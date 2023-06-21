@@ -35,6 +35,12 @@ Environments                                                                ال
 3- Web Server                    NGINX                    خادم مواقع 
 ---
 
+    3.1 Page Templates                                  قوالب للصفحات 
+    3.2 URL Routings                               توجيه عناوين الصفحات 
+    3.3 APP Logic                                        منطق التطبيق
+    3.4 Models                                           تحديد النماذج  
+    3.5 Views                                            تحديد المشاهد  
+---
 ***
 
 ## Environments                                                  البيئة الإفتراضية ##
