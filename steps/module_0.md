@@ -35,11 +35,11 @@ Environments                                                                ال
 3- Web Server                    NGINX                    خادم مواقع 
 ---
 
-    3.1 Page Templates                                  قوالب للصفحات 
-    3.2 URL Routings                               توجيه عناوين الصفحات 
-    3.3 APP Logic                                        منطق التطبيق
-    3.4 Models                                           تحديد النماذج  
-    3.5 Views                                            تحديد المشاهد  
+    3.1 Cashing                                         الذاكرة التصفحية  
+    3.2 Load Balancing                                    موازنة الأداء    
+    3.3 SSL Terminate                                    شهادات الأمنية 
+    3.4 Static File Delivery                          تفديم الملفات الثابتة    
+    3.5 Pages View Delivery                          الصفحات تفديم مشاهد  
 ---
 ***
 
