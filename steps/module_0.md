@@ -31,6 +31,7 @@ Environments                                                                ال
     2.3 APP Logic                                        منطق التطبيق
     2.4 Models                                           تحديد النماذج  
     2.5 Views                                            تحديد المشاهد  
+    2.6 User Management                                إدارة المستخدمين
 ---
 3- Web Server                    NGINX                    خادم مواقع 
 ---
