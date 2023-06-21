@@ -20,6 +20,11 @@ Environments                                                                ال
 ---
 1- Computing Logic / Process     Python          منطق المعالجة | العملية 
 ---
+    1.1 Python Interpretor                               بايثون معالج 
+    1.2 Python Libraries                                مكتبات بايثون
+    1.3 Version Settings                                تحديد الإصدار 
+    
+---
 2- Python Framework              Django           الية تشغيل بايثون للموق
 ---
 3- Web Server                    NGINX                    خادم مواقع 
