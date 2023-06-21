@@ -5,7 +5,7 @@ I hope you like it.
 ***
 Microservices Architecture                                  الهيكل البنيوي للخدمات السحابية المصغرة 
 
-#-Definition                          Module 0                                   التعريف-
+#-Definition                          Module 0 التعريف-
 
 Unlike One Big Program (Monolithic) Microservice or the service is a related entity interms of functionality Such as order management, customer management; each microservice is a complete program (process) enclosed that requires an input or set of inputs and can deliver an output. A microservice is a complete program that is exposed or communicates to other microservices or external entities through an api request. 
 
