@@ -43,13 +43,17 @@ https://Docker.com
 2) Download mySQL WorkBench      سطح العمل MYSQL إنزال وتحميل
 -Goto
 ```
- # Docker for Desktop (Docker) Course - Module 1
-This is my Docker course. I hope you like it.
+https://github.com/datacharmer/test_db
+```
+
+3) Download mySQL WorkBench      سطح العمل MYSQL إنزال وتحميل
+-Goto
 
 > These notes follow on from the README.md getting started instructions.
-***
+```
 https://github.com/datacharmer/test_db
-***
+```
+
 
 ## Docker for Desktop                                                  سطح العمل ل Docker ##
 To download Docker for Desktop
@@ -59,7 +63,7 @@ You should now have a directory called 'drf_course' in your development director
 In this module, we will be start our project. To do this we will need to create a virtual environment.
 >Note: Python virtual env docs can be found
 
-1) Initiate an account with Oracle.com     
+1) Initiate an account with Docker.com     
 -Goto
 ```
 https://Docker.com
