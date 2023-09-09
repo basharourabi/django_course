@@ -26,7 +26,7 @@ orace.com
 3) After Download Proceed with installation      MYSQLworkbench  حمل بعد الإنزال
 
 
-![Alt text]([image link](https://github.com/basharourabi/django_course/blob/main/static_files/MySQLWorkbench_zqUHOFlbG8.png))
+![Alt text](https://github.com/basharourabi/django_course/blob/main/static_files/MySQLWorkbench_zqUHOFlbG8.png)
 
 ## Steps/Commands
 You should now have a directory called 'drf_course' in your development directory. This will be known as your 'root directory'.
