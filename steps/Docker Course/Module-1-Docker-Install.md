@@ -1,12 +1,12 @@
-# mySQL Workbench (mySQL) Course - Module 1
-This is my SQL course. I hope you like it.
+# Docker for Desktop (Docker) Course - Module 1
+This is my Docker course. I hope you like it.
 
 > These notes follow on from the README.md getting started instructions.
 ***
 ***
 
-## mysql WorkBench                                                   سطح العمل ل MYSQL ##
-To download workbench for mySQL 
+## Docker for Desktop                                                  سطح العمل ل Docker ##
+To download Docker for Desktop
  Steps/Commands
 You should now have a directory called 'drf_course' in your development directory. This will be known as your 'root directory'.
 
@@ -16,7 +16,7 @@ In this module, we will be start our project. To do this we will need to create 
 1) Initiate an account with Oracle.com     
 -Goto
 ```
-orace.com
+https://Docker.com
 ```
 2) Download mySQL WorkBench      سطح العمل MYSQL إنزال وتحميل
 -Goto
