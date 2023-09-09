@@ -19,9 +19,11 @@ In this module, we will be start our project. To do this we will need to create 
 https://Docker.com
 ```
 2) Download Docker Desktop     سطح العمل Docker Desktop إنزال وتحميل
+Full Documentation on Docker Desktop & Download Link
+
 -Goto
 ```
-https://hub.docker.com/
+https://docs.docker.com/desktop/install/windows-install/
 ```
 > These notes follow on from the README.md getting started instructions.
 ***
