@@ -11,22 +11,20 @@ To download workbench for mySQL
 You should now have a directory called 'drf_course' in your development directory. This will be known as your 'root directory'.
 
 In this module, we will be start our project. To do this we will need to create a virtual environment.
->Note: Python virtual env docs can be found 
+>Note: Python virtual env docs can be found
 
-1) Download mySQL WorkBench      سطح العمل MYSQL إنزال وتحميل
-- Open a terminal and use the following command to create a virtual environment. 
+1) Initiate an account with Oracle.com     
+-Goto
 ```
-goto https://dev.mysql.com/downloads/workbench/
+orace.com
 ```
+2) Download mySQL WorkBench      سطح العمل MYSQL إنزال وتحميل
+-Goto
 ```
-Step 1. go to Oracle.com and create an account
-Step 2. goto https://dev.mysql.com/downloads/workbench/ and download installer
-
+ https://dev.mysql.com/downloads/workbench/
 ```
-If in doubt, run the following git commands:
+3) After Download Proceed with installation      MYSQLworkbench  حمل بعد الإنزال
 ```
-git checkout module_1
-git pull origin module_1
 ```
 
 ## Steps/Commands
