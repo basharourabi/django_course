@@ -25,8 +25,14 @@ orace.com
 ```
 3) After Download Proceed with installation      MYSQLworkbench  حمل بعد الإنزال
 
-
+4) Start A Database Connection     إبدأ الإتصال بعد الإنزال
 ![Alt text](https://github.com/basharourabi/django_course/blob/main/static_files/MySQLWorkbench_zqUHOFlbG8.png)
+
+
+5) Enter Database Credentials & Settings for Database Connection       أدخل إعدادات الإتصال ونعريف المستخدم 
+   ![Alt text](https://github.com/basharourabi/django_course/blob/main/static_files/ShareX_0CJwYMSi4V.png)
+
+
 
 ## Steps/Commands
 You should now have a directory called 'drf_course' in your development directory. This will be known as your 'root directory'.
