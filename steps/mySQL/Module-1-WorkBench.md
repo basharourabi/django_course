@@ -1,25 +1,16 @@
-# Django Rest Framework (DRF) Course - Module 1
-This is my DRF course. I hope you like it.
+# mySQL Workbench (mySQL) Course - Module 1
+This is my SQL course. I hope you like it.
 
 > These notes follow on from the README.md getting started instructions.
 ***
 ***
 
-## Current root directory                                                    المجلد الجذري ##
-Your root directory should look like the following.
+## mysql WorkBench                                                   سطح العمل ل MYSQL ##
+To download workbench for mySQL 
 ```
-drf_course\  <--This is the root directory <--المجلد الجذري
-    backend\
-        docker\
-            ...
-        >requirements.txt
-    steps\
-        ...
-    >.gitignore
-    >docker-compose.yml
-    >env.template
-    >README.md
-    >server.py
+Step 1. go to Oracle.com and create an account
+Step 2. goto https://dev.mysql.com/downloads/workbench/ and download installer
+
 ```
 If in doubt, run the following git commands:
 ```
