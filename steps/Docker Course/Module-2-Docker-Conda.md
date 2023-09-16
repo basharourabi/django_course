@@ -1,13 +1,13 @@
-# Docker for Desktop (Docker) Course - Module 1
+# Docker Conda (Docker) Course - Module 2
 This is my Docker course. I hope you like it.
 
 > These notes follow on from the README.md getting started instructions.
 ***
 ***
 
-## Docker for Desktop                                                  سطح العمل ل Docker ##
-To download Docker for Desktop
- Steps/Commands
+## Docker Conda Image                                                                Docker  CONDA صورة ##
+To download Docker for Desktop                                                     Docker  CONDA لتحميل صورة  
+ Steps/Commands                                                                             الخطوات \  الاوامر
 You should now have a directory called 'drf_course' in your development directory. This will be known as your 'root directory'.
 
 In this module, we will be start our project. To do this we will need to create a virtual environment.
