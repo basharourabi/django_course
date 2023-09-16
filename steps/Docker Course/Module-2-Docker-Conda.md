@@ -3,7 +3,7 @@
 |To download Docker for Desktop                 |```https://Docker.com```      |  Docker  CONDA لتحميل صورة   |
 |Steps/Commands                                 |                              |الخطوات -الاوامر                |
 
-
+<h3 style="text-align: center;">```https://Docker.com```</h3>
 
 This is my Docker course. I hope you like it.
 
