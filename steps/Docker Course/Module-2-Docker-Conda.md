@@ -30,7 +30,6 @@ To obtain a fully working Anaconda image:
 
 > 1) في نافذة الطرفية، قم بتشغيل هذا الأمر لعرض قائمة بالصور المتاحة:
 
-> لتفعيل خساب على دوكر
 ```
 docker search continuumio
 ```
