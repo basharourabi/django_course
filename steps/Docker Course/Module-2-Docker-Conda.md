@@ -33,6 +33,8 @@ To obtain a fully working Anaconda image:
 ```
 docker search continuumio
 ```
+   ![Alt text](https://github.com/basharourabi/django_course/blob/main/static_files/WindowsTerminal_rPRh0m6eDy.png)
+
 
 2) Download the desired Docker Anaconda Image     
 Full Documentation on Docker Desktop & Download Link
