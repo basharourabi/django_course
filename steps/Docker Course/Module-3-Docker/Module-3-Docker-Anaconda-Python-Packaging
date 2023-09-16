@@ -13,6 +13,7 @@ I write this quick tutorial for those who want to create a python app with anaco
 A project to quickly setup a python project using anaconda packages and Docker GitHub is home to over 50 million... github.com
 
 Project Structure
+
 ```
 .
 ├── Dockerfile
@@ -40,19 +41,20 @@ dependencies:
   - pip:
       - -r file:requirements.txt
 ```
+
 Name your conda environment, for instance app
 Add a list of channels where the desired packages are hosted
 List packages you want to install such as flask, gunicorn, numpy… under dependencies
 You can also install pip packages from the YAML file. One way to it is by adding a pip command to install (pip) packages from a requirements.txt, (-r in the command stands for requirement)
 For instance:
 
-requirements.txt
+###requirements.txt
 
-numpy
-Create a Python Script
-Here we have created a test file main.py for testing the application.
+###numpy
+>Create a Python Script
+>Here we have created a test file main.py for testing the application.
 
-main.py
+###main.py
 ```
 import numpy as np
 
@@ -61,9 +63,9 @@ print('Hello World !')
 print('Numpy version is ', np.__version__)
 ```
 
-Dokerization
-Create a file named Dockerfile (without extension) from which we build a docker image for our Python application.
-Dockerfile
+###Dokerization
+>Create a file named Dockerfile (without extension) from which we build a docker image for our Python application.
+>Dockerfile
 ```
 FROM  continuumio/miniconda3
 LABEL Author, Amine HadjYoucef
