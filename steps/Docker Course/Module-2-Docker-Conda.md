@@ -1,29 +1,58 @@
-| English Content | Arabic Content |
-|-----------------|----------------|
-| # Docker Anaconda (Docker) Course - Module 2 <br> This is my Docker course. I hope you like it. <br> > These notes follow on from the README.md getting started instructions. | # دورة دوكر أناكوندا (دوكر) - الوحدة الثانية <br> هذه هي دورتي في دوكر. أتمنى أن تعجبك. <br> > تتبع هذه الملاحظات التعليمات الأولية في ملف README.md. |
-| *** <br> *** | *** <br> *** |
-| Docker is an open platform for developers and system administrators to build, ship, and run distributed applications, whether on laptops, data center virtual machines, or the cloud. Anaconda, Inc. provides Anaconda and Miniconda Docker images.
+# Docker for Desktop (Docker) Course - Module 1
+This is my Docker course. I hope you like it.
 
-Read the official Docker documentation and specifically the information related to Docker images.
+> These notes follow on from the README.md getting started instructions.
+***
+***
 
-Begin by browsing the available Anaconda images on our Docker profile.
+## Docker for Desktop                                                  سطح العمل ل Docker ##
+To download Docker for Desktop
+ Steps/Commands
+You should now have a directory called 'drf_course' in your development directory. This will be known as your 'root directory'.
 
-To obtain a fully working Anaconda image:
+In this module, we will be start our project. To do this we will need to create a virtual environment.
+>Note: Python virtual env docs can be found
 
-In a terminal window, run this command to display a list of available images:
-
-docker search continuumio
-Pull the desired image:
+1) Initiate an account with Docker.com     
+-Goto
 ```
-docker pull continuumio/miniconda3
+https://Docker.com
 ```
-Create a container using the image:
-```
-docker run -t -i continuumio/miniconda3 /bin/bash
-```
-This gives you direct access to the container where the conda tool is already available.
+2) Download Docker Desktop     سطح العمل Docker Desktop إنزال وتحميل
+Full Documentation on Docker Desktop & Download Link
 
-Test the container:
+-Goto
+```
+https://docs.docker.com/desktop/install/windows-install/
+```
+> These notes follow on from the README.md getting started instructions.
+***
+***
 
-conda info
-You now have a fully working Anaconda image.| ## تشغيل أناكوندا بداخل Docker <br> حمل صورة لنظام دوكر يشمل أناكوندا <br> >الخطوات/الأوامر <br> يجب أن يكون لديك الآن دليل باسم 'drf_course' في دليل التطوير الخاص بك. سيعرف هذا كدليلك الجذري. <br> دوكر هو منصة مفتوحة للمطورين ومسؤولي النظام لبناء وشحن وتشغيل التطبيقات الموزعة، سواء على الحواسيب المحمولة أو الأجهزة الظاهرية في مراكز البيانات أو السحابة. توفر Anaconda, Inc. صور دوكر لأناكوندا ومينيكوندا. <br> >اقرأ الوثائق الرسمية لدوكر وبالتحديد المعلومات المتعلقة بصورة دوكر أناكوندا والتثبيت. <br> `https://docs.anaconda.com/free/anaconda/applications/docker/` |
+## Docker for Desktop                                                  سطح العمل ل Docker ##
+To download Docker for Desktop
+ Steps/Commands
+You should now have a directory called 'drf_course' in your development directory. This will be known as your 'root directory'.
+
+In this module, we will be start our project. To do this we will need to create a virtual environment.
+>Note: Python virtual env docs can be found
+
+1) Initiate an account with Oracle.com     
+-Goto
+```
+https://Docker.com
+```
+2) Download mySQL WorkBench      سطح العمل MYSQL إنزال وتحميل
+-Goto
+```
+https://github.com/datacharmer/test_db
+```
+
+3) Download mySQL WorkBench      سطح العمل MYSQL إنزال وتحميل
+-Goto
+
+> These notes follow on from the README.md getting started instructions.
+```
+https://github.com/datacharmer/test_db
+```
+
