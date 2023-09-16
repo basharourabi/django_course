@@ -14,12 +14,13 @@ In a terminal window, run this command to display a list of available images:
 
 docker search continuumio
 Pull the desired image:
-'''
+```
 docker pull continuumio/miniconda3
-'''
+```
 Create a container using the image:
-
+```
 docker run -t -i continuumio/miniconda3 /bin/bash
+```
 This gives you direct access to the container where the conda tool is already available.
 
 Test the container:
