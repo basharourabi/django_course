@@ -13,16 +13,18 @@ I write this quick tutorial for those who want to create a python app with anaco
 A project to quickly setup a python project using anaconda packages and Docker GitHub is home to over 50 million... github.com
 
 Project Structure
-
+```
 .
 ├── Dockerfile
 ├── environment.yaml
 ├── main.py
 ├── README.md
 └── requirements.txt
-Create a YAML file for Conda Environment
-environment.txt
+```
+##Create a YAML file for Conda Environment
+###environment.txt
 
+```
 name: app
 
 channels:
@@ -37,6 +39,7 @@ dependencies:
   - scikit-learn
   - pip:
       - -r file:requirements.txt
+```
 Name your conda environment, for instance app
 Add a list of channels where the desired packages are hosted
 List packages you want to install such as flask, gunicorn, numpy… under dependencies
