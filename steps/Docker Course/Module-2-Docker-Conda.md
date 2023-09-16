@@ -1,11 +1,4 @@
-| # Docker Conda (Docker) Course - Module 2     | Code                         | # Docker  CONDA دورة        |
-| :---                                          |    :----:                    |          ---:              |
-|To download Docker for Desktop                 |```https://Docker.com```      |  Docker  CONDA لتحميل صورة   |
-|Steps/Commands                                 |                              |الخطوات -الاوامر                |
-
-<h2 style="text-align: center;"><code>https://Docker.com</code></h2>
-
-
+# Docker for Desktop
 This is my Docker course. I hope you like it.
 
 > These notes follow on from the README.md getting started instructions.
@@ -23,6 +16,7 @@ In this module, we will be start our project. To do this we will need to create 
 
 1) Initiate an account with Docker.com     
 -Goto
+> لتفعيل خساب على دوكر
 ```
 https://Docker.com
 ```
@@ -50,8 +44,8 @@ In this module, we will be start our project. To do this we will need to create 
 ```
 https://Docker.com
 ```
-2) Download mySQL WorkBench      سطح العمل MYSQL إنزال وتحميل
--Goto
+2) Download mySQL WorkBench -Goto      سطح العمل  لإنزال وتحميل  MYSQL
+
 ```
 https://github.com/datacharmer/test_db
 ```
