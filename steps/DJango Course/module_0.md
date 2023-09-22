@@ -25,7 +25,7 @@ Unlike One Big Program (Monolithic) Microservice or the service is a related ent
     1.2 Python Libraries                                مكتبات بايثون
     1.3 Version Settings                                تحديد الإصدار 
 ---
-1-2 Python Framework              Django           الية تشغيل بايثون للموق
+1-2 Python Framework              Django           الية تشغيل بايثون للموقع 
 ---
     2.1 Page Templates                                  قوالب للصفحات 
     2.2 URL Routings                               توجيه عناوين الصفحات 
