@@ -87,7 +87,7 @@ django-admin startproject drf_course backend
 
 4) Secrets and Environment Variables - It is good practice to separate sensitive information from your project. We have installed a package called 'python-dotenv' that helps us manage secrets easily. Lets go ahead and create a env file to store information that is specific to our working environment. Use the following command in your terminal.
 
-المصطلحات والكلمات السرية المستخدمة يجب أن تفصل عن باقي ملفات المشروع، وعليه سوف ننشئ بيئة  إفتراضية  جديدة من الممكن فصلها لاحقا وتسمية هذه البيئة env. 
+المصطلحات والكلمات السرية المستخدمة يجب أن تفصل عن باقي ملفات المشروع، وعليه سوف ننشئ بيئة  إفتراضية  جديدة من الممكن فصلها لاحقا وتسمية هذه البيئة env. عادةً أي ملف يبدأ ب نقطة من الممكن إستثناءه بمرحلة تأسيس حاوية دوكر
 
 ```
 # windows machine
