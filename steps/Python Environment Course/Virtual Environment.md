@@ -23,7 +23,7 @@ python -m venv C:\Users\[user]\Desktop\proj_venv
 ## -m
 is a venv argument that stands for make
 
-In this module, we will be start our project. To do this we will need to create a virtual environment.
+In this module, we will start our project. To do this we will need to create a virtual environment.
 >Note: Python virtual env docs can be found [here]([https://docs.python.org/3/tutorial/venv.html)](https://docs.python.org/3/library/venv.html).
 
 Now activate the virtual environment with the following command. تفعيل البيئة الإفتراضية
