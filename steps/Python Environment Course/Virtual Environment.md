@@ -86,7 +86,7 @@ pip install -r backend/requirements.txt
 3) Django - You can now go ahead and start a new Django project. Installing Django has given you access to a handy 'startproject' command. Use the following command to start our new project.
 لتفعيل وتثلبيت مشروع منصة django عليك التثبيت من خلال الأوامر التالية 
 ```
-django-admin startproject drf_course backend
+django-admin startproject Project_Folder backend
 ```
 
 4) Secrets and Environment Variables - It is good practice to separate sensitive information from your project. We have installed a package called 'python-dotenv' that helps us manage secrets easily. Lets go ahead and create a env file to store information that is specific to our working environment. Use the following command in your terminal.
@@ -109,7 +109,7 @@ You can use your new .env file to store API keys, secret_keys, app_passwords and
 >Note: If all went well, your root directory should now look like this
 إذا مشي كل شيئ علا ما يرام سوف يكون شكل تكوبن المجلدات والملفات على الشكل التالي
 ```
-drf_course\  <--This is the root directory
+Project_Folder\  <--This is the root directory
     backend\
         docker\
             ...
@@ -123,7 +123,7 @@ drf_course\  <--This is the root directory
         >requirements.txt
     steps\
         ...
-    venv\ <--New directory
+    proj_venv\ <--New directory
         include\
         Lib\
         Scripts\
